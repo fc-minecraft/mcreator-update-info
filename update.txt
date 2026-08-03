@@ -1,2 +1,6 @@
-202600110001
-310726
+2026131723
+030826
+WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/8a6d163b-c430-4fbf-928e-783c739e024b.exe
+MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/33d3114b-8ca8-461f-b14b-58305f3a0d21.dmg
+MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/f97cf6fd-f763-4095-8fa3-8fcffbe1e29d.dmg
+LINUX https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/c8cc8889-4602-4da7-a62a-c80d14a51347.gz
