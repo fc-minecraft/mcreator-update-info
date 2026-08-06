@@ -1,6 +1,5 @@
 2026132109
 030826
-MANDATORY
 WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/99002342-bdfa-41fe-8b26-af41f9171379.exe
 MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/c6bc5123-5d87-4c66-b4df-30788992d91f.dmg
 MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/480b23fa-c13b-4b67-afd2-5508773b5699.dmg
