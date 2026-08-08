@@ -1,6 +1,6 @@
-2026132109
-030826
-WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/99002342-bdfa-41fe-8b26-af41f9171379.exe
-MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/c6bc5123-5d87-4c66-b4df-30788992d91f.dmg
-MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/480b23fa-c13b-4b67-afd2-5508773b5699.dmg
-LINUX https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/42aa1d19-39f6-4eab-ab2b-bdf5b4d1fadb.gz
+2026132611
+080826
+WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/885492c9-8393-42c5-9767-279ee279e1a1.exe
+MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/38bd5159-7835-40b7-aa15-932c4e6aa2c6.dmg
+MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/ce4fd30c-3af4-4ea4-a28c-5edf29c88457.dmg
+LINUX https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/b823fda3-b317-4a0f-9514-0c6e8b48f357.gz
