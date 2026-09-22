@@ -1,9 +1,9 @@
 2026137612
 120926
-WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/fab04968-4324-435f-82cc-09857f4091f7.exe
-MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/9db8ef45-aa8c-47b6-939c-0fc2ae3f6b40.dmg
-MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/302d61b9-6482-4139-8eb0-f4f38d7a035a.dmg
-LINUX https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/7f3fd6eb-2e17-493e-9c10-cb57b453db28.gz
+WIN https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/7817410d-970b-43c8-a5a2-afb85290d5d8.exe
+MAC64 https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/1de15aad-57d9-4529-8b1a-f67718775642.dmg
+MACARM https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/e831cd40-5048-4bbd-8f27-cecdf28bcf75.dmg
+LINUX https://f003.backblazeb2.com/file/funcode-pub/lesson/c398/l6704/64a512df-1109-414b-9ef2-bc7ec0cb9596.gz
 SHA256_WIN 027e418c8b0e5c4195795663961e94749bfee6b3475f7f58ed9ae7374c118b3a
 SHA256_MAC64 988b72aee14ba92662f941cb5ab8620983c9c726955fc84c53ad39121df93593
 SHA256_MACARM f322c44eb8ec3618271df4e26f594afe6bb4cb2fd82281f9f63d90b23c5c3340
