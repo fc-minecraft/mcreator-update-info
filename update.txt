@@ -1,9 +1,9 @@
-2026143110
-191026
-WIN https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/db60d91a-360f-45e6-b011-3fb0d96d764d.exe
-MAC64 https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/b9c7db25-4db9-456f-ad24-4dfae95e34e8.dmg
-MACARM https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/36ae575a-7cf9-431d-a127-ca082de48ad3.dmg
-LINUX https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/d05089ac-eb00-46d9-9fcf-ed6266d0ecb1.gz
+2026144313
+281026
+WIN https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/eab8682c-f5d5-4fc0-907d-4e6a41f33c6d.exe
+MAC64 https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/9a08e787-e573-4ff6-9a64-ac57eece3230.dmg
+MACARM https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/aa514318-5ad8-42e6-b862-c72115298764.dmg
+LINUX https://storage-1265.s3hoster.by/funcodeby/lesson/c398/l6704/27ae86c6-84f6-4b4a-a45d-983eeb508f7b.gz
 SHA256_WIN 98d992f46134eff7c2e38976a9915913cf2134f26bb7b3e64558c50f19e1ad7b
 SHA256_MAC64 c4fc2e0346055dbe569657d1047f16a552d2c03e65e160c9dc9d6eb97e480ca9
 SHA256_MACARM a88ad4fe1d8144a3e2da328e5162cfabfea72320cafc3385e1856618438b354f
